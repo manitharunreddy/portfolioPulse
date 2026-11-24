@@ -1,0 +1,410 @@
+[
+  {
+    "timestamp": "2026-11-19T07:42:12.111Z",
+    "recipientEmail": "dev.manitharunreddy@gmail.com",
+    "company": "TechPulse Systems",
+    "role": "Full-Stack Developer",
+    "status": "SENT",
+    "messageId": "<f1e61002-175d-cd08-0f29-ca8a58194312@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:06:33.161Z",
+    "recipientEmail": "pcratechno@gmail.com",
+    "company": "PCRA Technologies",
+    "role": "Full Stack Developer",
+    "status": "SENT",
+    "messageId": "<c0fb89b2-8291-ecad-9f56-6fca57a18558@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:06:40.193Z",
+    "recipientEmail": "hr@inspironinfoinc.com",
+    "company": "Inspiron Info Solutions",
+    "role": "Full Stack / Node.js Developer",
+    "status": "SENT",
+    "messageId": "<ad71a57f-4df4-c773-9719-317ff4308eb5@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:06:48.367Z",
+    "recipientEmail": "pragya@orcapod.work",
+    "company": "Orcapod Consulting",
+    "role": "Full Stack Developer",
+    "status": "SENT",
+    "messageId": "<01c056cf-130a-9ed6-780b-f50a624b3b5c@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:06:55.723Z",
+    "recipientEmail": "renisha.panchal@ascendion.com",
+    "company": "Ascendion",
+    "role": "React Full Stack Developer",
+    "status": "SENT",
+    "messageId": "<54211fca-7288-0f8d-26f3-53bb0d1364bf@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:07:02.873Z",
+    "recipientEmail": "jyothi.samudram@lawinorder.com",
+    "company": "Law In Order",
+    "role": "Full Stack Software Engineer",
+    "status": "SENT",
+    "messageId": "<980f66d3-95bd-2e17-9145-30383f1f56d7@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:07:10.306Z",
+    "recipientEmail": "contact@cybotrix.com",
+    "company": "Cybotrix Technologies",
+    "role": "Full Stack / React Developer",
+    "status": "SENT",
+    "messageId": "<a0295a2f-afb1-0afe-4044-7dd1a64dfe97@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:07:18.459Z",
+    "recipientEmail": "careersindia2@cognizant.com",
+    "company": "Cognizant Technology Solutions",
+    "role": "Full Stack Developer",
+    "status": "SENT",
+    "messageId": "<805b18d6-a2f8-1b95-5640-602c3bb79729@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:07:26.852Z",
+    "recipientEmail": "sadhanapatil@virtusa.com",
+    "company": "Virtusa",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<4a1fd9bd-1e53-931e-1387-420077f5c468@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:07:34.553Z",
+    "recipientEmail": "kiran.devaraj@gyansys.com",
+    "company": "GyanSys Inc",
+    "role": "React JS Developer",
+    "status": "SENT",
+    "messageId": "<dfe23bc3-1752-e4e4-10f8-93845a48a58e@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:07:42.046Z",
+    "recipientEmail": "shreya.b@kudzuinfotech.com",
+    "company": "Kudzu Infotech",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<60e76362-e89d-713c-e4c5-9667fc089f56@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:07:49.586Z",
+    "recipientEmail": "neelam.tiwari@futurevarsity.edu.in",
+    "company": "Future Varsity",
+    "role": "Junior Frontend Developer",
+    "status": "SENT",
+    "messageId": "<a7c26073-2d75-bb4d-c08c-5dbb874324d2@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:07:56.826Z",
+    "recipientEmail": "hr@futurevarsity.edu.in",
+    "company": "Future Varsity HR",
+    "role": "Junior Frontend Developer",
+    "status": "SENT",
+    "messageId": "<00f035e3-b62f-023f-d673-c03067d61054@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:08:03.747Z",
+    "recipientEmail": "pankaj@destinyhrgroup.com",
+    "company": "Destiny HR Group",
+    "role": "Frontend React Developer",
+    "status": "SENT",
+    "messageId": "<2232b7c7-5b8f-70f4-d2cc-01b6a5bb2040@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:08:11.506Z",
+    "recipientEmail": "info@digirecruitx.com",
+    "company": "DigiRecruitx",
+    "role": "Frontend React Developer",
+    "status": "SENT",
+    "messageId": "<debedc69-0d5a-41c5-73c8-ac0061c0482d@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:08:19.574Z",
+    "recipientEmail": "cv@gainformatics.com",
+    "company": "G.A. Informatics",
+    "role": "Frontend Web Developer",
+    "status": "SENT",
+    "messageId": "<5e1c731f-4d8d-b4e4-73f2-877d08eea48f@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:08:26.895Z",
+    "recipientEmail": "hr@codecrux.com",
+    "company": "CodeCrux Web Technologies",
+    "role": "React Developer",
+    "status": "SENT",
+    "messageId": "<742c9a44-cc1e-1999-a87c-60fce6873c3b@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:08:34.932Z",
+    "recipientEmail": "shyam@codecrux.com",
+    "company": "CodeCrux Web Technologies",
+    "role": "React Developer",
+    "status": "SENT",
+    "messageId": "<9d634e62-fa6e-b94a-7ea0-2e4640c5d33d@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:08:42.164Z",
+    "recipientEmail": "buzz@sutrahr.com",
+    "company": "SutraHR",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<4fea8109-b491-dd05-e2b8-0ceb126da43e@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:08:49.648Z",
+    "recipientEmail": "abhishek.p@careerchoicesolution.com",
+    "company": "Career Choice Solution",
+    "role": "React Developer",
+    "status": "SENT",
+    "messageId": "<3cadc951-b8d1-c6d9-1b2c-71e29ab4d836@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:08:57.220Z",
+    "recipientEmail": "hrd@careerchoicesolution.com",
+    "company": "Career Choice Solution HRD",
+    "role": "React Developer",
+    "status": "SENT",
+    "messageId": "<699bc304-4de0-fa2d-433c-b7a2da25a740@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:09:04.324Z",
+    "recipientEmail": "info@v3staffing.in",
+    "company": "V3 Staffing Solutions",
+    "role": "Frontend React Developer",
+    "status": "SENT",
+    "messageId": "<dbfa79d7-27c1-2dfa-e81c-6b80f9d5c31c@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:09:12.615Z",
+    "recipientEmail": "info@multirecruit.com",
+    "company": "MultiRecruit Bangalore",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<259108d6-371a-0882-918a-64223c2cd2bd@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:09:20.542Z",
+    "recipientEmail": "info@huconsolutions.com",
+    "company": "Hucon Solutions",
+    "role": "React Developer",
+    "status": "SENT",
+    "messageId": "<737c1790-68f7-f743-be11-1d1dc3e67059@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:09:29.335Z",
+    "recipientEmail": "careers@growelsoftech.com",
+    "company": "Growel Softech",
+    "role": "React Frontend Developer",
+    "status": "SENT",
+    "messageId": "<1d27bc0c-7f76-dd29-8e2f-e72e5d8869bc@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:09:37.253Z",
+    "recipientEmail": "anslyprojects@gmail.com",
+    "company": "Ansly Tech",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<9418791e-7b37-ecdf-1590-4e13f8390f84@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:09:46.802Z",
+    "recipientEmail": "hr@zucisystems.com",
+    "company": "Zuci Systems",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<5c0a1cf0-24b3-1b99-0b7c-f00a100e43b4@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:09:54.251Z",
+    "recipientEmail": "info@smarther.co",
+    "company": "Smarther Technologies",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<487740da-cb1d-846e-8c53-5d0fa97ba631@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:10:02.909Z",
+    "recipientEmail": "hr@dci.in",
+    "company": "Dot Com Infoway",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<b9a916fb-b957-1ce9-9ab3-ff4b88bdda5e@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:10:10.658Z",
+    "recipientEmail": "careers@squareshift.co",
+    "company": "SquareShift Technologies",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<18275622-4fef-611d-c6f9-6157f4423e47@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:10:19.324Z",
+    "recipientEmail": "talent@agilisium.com",
+    "company": "Agilisium Consulting",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<3245440a-35e6-1057-46ef-ef09fe248cf6@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:10:26.644Z",
+    "recipientEmail": "careers@indium.tech",
+    "company": "Indium Software",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<0119ffab-b98c-d48c-a585-341bc46ee73f@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:10:34.967Z",
+    "recipientEmail": "career@creatah.com",
+    "company": "Creatah Software",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<c0194529-03ff-f0b5-49d3-a092ab74f2c4@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:10:43.125Z",
+    "recipientEmail": "hr@whyglobalservices.com",
+    "company": "WHY Global Services",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<dcc2d66c-e8b2-4a6e-2f25-b0f9e5a61c24@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:10:50.143Z",
+    "recipientEmail": "info@psiog.com",
+    "company": "Psiog Digital",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<a668f144-c5ce-338d-9ff5-7c18b717ce57@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:10:58.669Z",
+    "recipientEmail": "contactapac@srmtech.com",
+    "company": "SRM Technologies",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<3a7b364b-0752-439e-8ec1-98c9715cb6fc@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:11:06.565Z",
+    "recipientEmail": "contactus@innoppl.com",
+    "company": "Innoppl Technologies",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<23f89efa-faa2-d676-f4b9-57182a066b4c@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:11:14.714Z",
+    "recipientEmail": "hi@bsharpcorp.com",
+    "company": "Bsharp Sales Enablers",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<15c95704-6261-27a4-5d81-c2c8657e9f17@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:11:23.155Z",
+    "recipientEmail": "careers@plintron.com",
+    "company": "Plintron",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<19d5f8d1-e063-1b9e-517c-c00696ed3578@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:11:30.680Z",
+    "recipientEmail": "careers@ivymobility.com",
+    "company": "Ivy Mobility",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<0745fc37-6f0b-69af-7df4-7995f24d0184@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:11:37.437Z",
+    "recipientEmail": "info@inspacetech.com",
+    "company": "Inspace Technologies",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<9954e5ed-abca-994b-b08c-1f01fabe2859@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:11:45.884Z",
+    "recipientEmail": "info@karyatech.com",
+    "company": "Karya Technologies",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<f53431a7-8954-4cb1-21a7-4cbf15821e90@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:11:52.842Z",
+    "recipientEmail": "info@tychons.com",
+    "company": "Tychons Solutions",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<387b8ab8-dc11-5c80-918e-4334e570181e@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:11:59.939Z",
+    "recipientEmail": "careers@amtexsystems.com",
+    "company": "Amtex Systems",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<d05acb6b-83a4-7ec2-d397-5e4c8dd48798@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:12:08.051Z",
+    "recipientEmail": "careers@claysys.com",
+    "company": "ClaySys Technologies",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<16822a39-9c0d-c63c-c1a9-62e0f45573b4@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:12:15.545Z",
+    "recipientEmail": "info@netcon.in",
+    "company": "Netcon Technologies",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<90e46afd-c5ed-ae2c-581e-e8f54aff39e1@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:12:22.343Z",
+    "recipientEmail": "info@securekloud.com",
+    "company": "SecureKloud Technologies",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<bfed502d-7696-fc31-de68-c64a528f5261@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:12:32.651Z",
+    "recipientEmail": "hr@codoid.com",
+    "company": "Codoid Innovations",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<36d92c59-f33f-446e-b324-61324bab3c44@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:12:39.886Z",
+    "recipientEmail": "hr@kryptostech.com",
+    "company": "Kryptos Technologies",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<b313d59e-2736-14ac-368d-b66f1653bb92@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:12:47.782Z",
+    "recipientEmail": "career@sparkouttech.com",
+    "company": "Sparkout Tech Solutions",
+    "role": "Frontend Developer",
+    "status": "SENT",
+    "messageId": "<fdaf37ce-43cd-eb90-cf3c-9398bbd7feb1@gmail.com>"
+  },
+  {
+    "timestamp": "2026-11-19T08:12:56.152Z",
+    "recipientEmail": "hr@angleritech.com",
+    "company": "ANGLER Technologies",
+    "role": "React.js Developer",
+    "status": "SENT",
+    "messageId": "<7170fc80-1636-add0-4346-e1b143e054d4@gmail.com>"
+  }
+]

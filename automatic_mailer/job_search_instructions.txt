@@ -1,0 +1,45 @@
+JOB SEARCH & AUTO MAILER STRICT INSTRUCTION RULES
+Candidate: Manitharun Reddy (+91 9912939402 | manitharunreddy@gmail.com)
+
+==================================================
+1. RESUME & CANDIDATE SKILLS
+==================================================
+Always read resume.txt / manitharunreddy_resume_full_stack_developer.pdf before searching.
+
+Candidate Experience: 4 Years Professional Experience (Young Minds Technology Solutions Pvt. Ltd.)
+Notice Period: Immediate Joiner (0–5 Days)
+Resume PDF: manitharunreddy_resume_full_stack_developer.pdf
+Links:
+- Portfolio: https://manitharunreddy.in
+- GitHub: https://github.com/manitharunreddy
+- LinkedIn: https://linkedin.com/in/manitharunreddy
+
+Core Tech Stack:
+- Frontend: React.js, React Hooks, TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap, Handlebars.js.
+- Backend: Node.js, Express.js, RESTful APIs, WebSockets.
+- Databases: PostgreSQL, MySQL, MongoDB, SQLite.
+- Desktop & Architecture: Electron.js, Offline-First Architecture, Database-per-Tenant Multi-Tenancy, Real-Time Sync, Silent Printing.
+- Tools: Git, GitHub, Postman, Docker, Linux, Nginx, PM2.
+
+==================================================
+2. LOCATION & TIMEFRAME FILTERS
+==================================================
+- Locations: All locations (Hyderabad, Bangalore, Chennai, Pune, Mumbai, Remote, Pan-India). Based in Hyderabad.
+- Recency: Last 24 hours to 7 days (active hiring).
+
+==================================================
+3. ELIGIBLE JOB DESIGNATIONS
+==================================================
+- Full-Stack Developer / Full-Stack Engineer / Software Engineer
+- Frontend Developer / React Developer / UI Developer
+- Backend Developer / Node.js Developer / Backend Engineer
+- Any technical role matching React, Node, Express, TypeScript, or Full Stack Web skills.
+
+==================================================
+4. AUTOMATED EMAIL OUTREACH RULES
+==================================================
+1. Extract HR target emails from job postings/feed.
+2. Read candidate resume and JD to craft customized cover emails tailored dynamically to Full-Stack, Frontend, or Backend.
+3. No emojis in subject lines or body text.
+4. Always attach manitharunreddy_resume_full_stack_developer.pdf.
+5. Log sent emails to sent_history.json.

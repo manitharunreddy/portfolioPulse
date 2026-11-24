@@ -1,0 +1,4 @@
+node_modules/
+.env
+preview_emails.json
+sent_history_legacy_backup.json

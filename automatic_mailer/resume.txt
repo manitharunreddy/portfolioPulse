@@ -1,0 +1,37 @@
+MANITHARUN REDDY THALLAPUREDDY
+Full-Stack Software Engineer
++91 9912939402 | manitharunreddy@gmail.com | Hyderabad, Telangana, India
+LinkedIn: linkedin.com/in/manitharunreddy | GitHub: github.com/manitharunreddy | Portfolio: manitharunreddy.in
+
+PROFESSIONAL SUMMARY
+Full-Stack Software Engineer with 4 years of professional experience developing and maintaining enterprise web applications, retail management platforms, and offline-first POS systems. Proficient in JavaScript (ES6+), TypeScript, React.js, Node.js, Express.js, PostgreSQL, MySQL, MongoDB, and SQLite. Experienced in building RESTful APIs, real-time data synchronization, multi-tenant applications, inventory management workflows, and Electron-based desktop applications. Hands-on experience contributing across frontend and backend development, application integration, and production deployment.
+
+TECHNICAL SKILLS
+- Programming Languages: JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3
+- Frontend Development: React.js, React Hooks, Context API, Tailwind CSS, Bootstrap, Handlebars.js
+- Backend Development: Node.js, Express.js, RESTful APIs, WebSockets
+- Databases: PostgreSQL, MySQL, MongoDB, SQLite
+- Desktop Applications: Electron.js, Local API Development, Thermal Printer Integration, Silent Printing
+- Architecture & Concepts: Offline-First Architecture, Database-per-Tenant Multi-Tenancy, Real-Time Synchronization, RBAC, Transaction Management, Printer Queues
+- Development Tools: Git, GitHub, Postman, Docker, Linux, Nginx, PM2
+
+PROFESSIONAL EXPERIENCE
+Young Minds Technology Solutions Pvt. Ltd., Hyderabad, India
+Full-Stack Web Developer | 27 October 2022 – 2 November 2026
+- Developed and maintained full-stack web applications for retail management, restaurant operations, POS billing, and enterprise inventory management using React.js, Node.js, Express.js, TypeScript, and SQL databases.
+- Offline POS Development: Contributed to the development of an offline-first retail POS ecosystem using Electron.js, Express.js, and SQLite, supporting 6 retail outlets and processing 700+ daily transactions per store while maintaining local billing functionality during internet outages.
+- Data Synchronization: Implemented bidirectional WebSocket-based synchronization between local POS applications and cloud services, supporting transaction synchronization between offline outlets and centralized systems.
+- Implemented unique transaction identifiers and duplicate record checks to maintain transaction integrity during local-to-cloud and cloud-to-local synchronization.
+- Multi-Tenant Architecture: Contributed to the development of RetailSoft, a B2B retail management platform serving 10+ business tenants using a database-per-tenant architecture to maintain separate databases for individual business clients.
+- Inventory Management: Developed frontend and backend modules for inter-store inventory transfers, stock indents, and multi-stage approval workflows, supporting 20+ daily stock indents and transaction-based inventory operations.
+- Government Procurement System: Contributed to the development of the Telangana State Forensic Science Laboratory (TGFSL) procurement and inventory management system, supporting digital indent tracking and stock operations across all 30 Telangana district head offices.
+- Implemented role-based access control and multi-level approval workflows for inward and outward stock movements, including Receipt Voucher (RV) and Issue Voucher (IV) generation.
+- Silent Printing Application: Developed Stealthy Print, an Electron-based desktop application with an embedded Express.js server, enabling browser applications to submit HTML content and printer names through HTTP POST requests.
+- Implemented printer-specific print queues and automatic retry mechanisms for failed print jobs, supporting multiple connected thermal printers and silent printing without manual operating system print dialogs.
+- Restaurant Management: Developed restaurant billing and order management modules supporting Dine-In, Takeaway, and Kitchen Order Ticket (KOT) workflows using React.js, Node.js, Express.js, and MySQL.
+- Integrated Swiggy and Zomato order processing through UrbanPiper webhooks, enabling automated order ingestion, kitchen ticket generation, and real-time order notifications.
+- Developed frontend components for retail checkout, including GST calculations, barcode scanner input processing, multiple payment mode handling, and discount validations.
+
+EDUCATION
+Guru Nanak Technical Campus, Hyderabad, Telangana, India
+Bachelor of Technology in Electronics and Communication Engineering | 2018 – 2022
